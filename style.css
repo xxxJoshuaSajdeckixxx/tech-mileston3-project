@@ -1,0 +1,33 @@
+body{
+	width: 100%;
+	margin: 0;
+}
+h1 {
+	font-size: 50px;
+	text-align: center;	
+}
+
+p {
+	text-align: left;
+	width: 50%;
+}
+
+.green {
+	background-color: #109675;
+	padding: 20px;
+}
+
+.yellow {
+	background-color: #F1C059;
+	padding: 20px;
+}
+
+.pinkish {
+	background-color: #F36F63;
+	padding: 20px;
+}
+
+.blueish {
+	background-color: #50B0AE;
+	padding: 20px;
+}
